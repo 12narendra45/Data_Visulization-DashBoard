@@ -1,9 +1,16 @@
+
 # Interactive Dashboard for COVID-19 Analysis
+
 ---
-# DataSet Used
-- <a href=”https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/dashboardtab_updated_with_gender.csv”>Covid 19_Gender Data</a>
+
+## Dataset Used
+- [Covid-19 Gender Data](https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/dashboardtab_updated_with_gender.csv)
+
+---
+
 ## Project Overview
 This project involves creating an **interactive Tableau dashboard** to explore and visualize COVID-19 data trends. The dashboard provides a dynamic and user-friendly interface to analyze global and regional statistics, including gender-based mortality insights.
+
 ---
 
 ## Key Performance Indicator (KPI) Questions
@@ -33,13 +40,13 @@ This dashboard is designed to help users answer critical questions, such as:
   - Recovery rates, fatality rates, and deaths per recovered cases.
 
 ### Interactive Components:
--KPI Values of new cases,deaths,recoveries.
+- KPI values of new cases, deaths, and recoveries.
 - Heatmaps for geographic trends.
 - Line charts for temporal analysis.
 - Bar charts for country-wise comparisons.
 - Exportable views and dynamic slicers for specific datasets.
--Map Chart for Country Wise NewCases.
-![Dashboard 1new](https://github.com/user-attachments/assets/9bb6294f-f946-4b21-8aee-2a24353e5da0)
+- Map Chart for country-wise new cases.  
+  ![Dashboard Preview](https://github.com/user-attachments/assets/9bb6294f-f946-4b21-8aee-2a24353e5da0)
 
 ---
 
@@ -65,7 +72,8 @@ This dashboard is designed to help users answer critical questions, such as:
    - Region, Date, or Country analysis.
    - Toggle between metrics (e.g., "New Cases", "Deaths / 100 Cases").
 3. Explore pre-built charts or customize for deeper insights.
-<a href=”https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.png”>DashBoard_Image</a>
-<a href=”https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.png”>DashBoard_Vedio</a>
 
+- [Dashboard Image](https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.png)  
+- [Dashboard Video](https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.mp4)
 
+---
