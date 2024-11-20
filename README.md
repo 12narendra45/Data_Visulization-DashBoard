@@ -1,6 +1,6 @@
 # Interactive Dashboard for COVID-19 Analysis
 ---
-#DataSet Used
+# DataSet Used
 - <a href=”https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/dashboardtab_updated_with_gender.csv”>Covid 19_Gender Data</a>
 ## Project Overview
 This project involves creating an **interactive Tableau dashboard** to explore and visualize COVID-19 data trends. The dashboard provides a dynamic and user-friendly interface to analyze global and regional statistics, including gender-based mortality insights.
@@ -67,6 +67,5 @@ This dashboard is designed to help users answer critical questions, such as:
 3. Explore pre-built charts or customize for deeper insights.
 <a href=”https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.png”>DashBoard_Image</a>
 <a href=”https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.png”>DashBoard_Vedio</a>
----
 
 
