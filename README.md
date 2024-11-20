@@ -46,7 +46,8 @@ This dashboard is designed to help users answer critical questions, such as:
 - Bar charts for country-wise comparisons.
 - Exportable views and dynamic slicers for specific datasets.
 - Map Chart for country-wise new cases.  
-  ![Dashboard Preview](https://github.com/user-attachments/assets/9bb6294f-f946-4b21-8aee-2a24353e5da0)
+ ![Dashboard 1new](https://github.com/user-attachments/assets/4a0c0c46-42b9-4519-8867-e06c1e82ece8)
+
 
 ---
 
@@ -74,6 +75,6 @@ This dashboard is designed to help users answer critical questions, such as:
 3. Explore pre-built charts or customize for deeper insights.
 
 - [Dashboard Image](https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.png)  
-- [Dashboard Video](https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/Dashboard%201new.mp4)
+- [Dashboard Video](https://github.com/12narendra45/Data_Visulization-DashBoard/blob/main/DashBoard_Vedio.mp4)
 
 ---
